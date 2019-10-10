@@ -1,0 +1,48 @@
+{
+    "name": "Diabo Verde",
+    "description": "Diabo Verde is a drink based on Cachaça, Vodka, Brandy and Martini.",
+    "github": "MoisesAbraao",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "shot",
+            "ingredient": "of Cachaça"
+        },
+        {
+            "quantity": "1",
+            "measure": "shot",
+            "ingredient": "of Vodka"
+        },
+        {
+            "quantity": "1",
+            "measure": "shot",
+            "ingredient": "of Brandy"
+        },
+        {
+            "quantity": "1",
+            "measure": "shot",
+            "ingredient": "of Martini"
+        },
+        {
+            "quantity": "1",
+            "measure": "",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "1",
+            "measure": "leaf",
+            "ingredient": "of mint"
+        }
+    ],
+    "directions": [
+        "Add all ingredients and mix.",
+        "Done!"
+    ],
+    "image": "diabo-verde.jpg",
+    "keywords": [
+        "cachaça",
+        "Diabo",
+        "drink",
+        "alcoholic"
+    ]
+}
